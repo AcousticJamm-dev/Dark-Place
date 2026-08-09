@@ -1,3 +1,7 @@
+> [!NOTE]
+> Dark Place Legacy is **no longer supported**! All contributors have moved on to [Dark Place Rebirth](https://github.com/darkplace-dr/DarkPlaceRebirth-Kristal)!
+> If you wish to contribute to Dark Place, **please don't contribute to this repository**!
+
 <p align="center" width="100%">
 <img src="logo.png" alt="Dark Place: An open-source Kristal mod" width="50%" />
 <br>
