@@ -1,3 +1,8 @@
+> [!NOTE]
+> Dark Place Legacy is **no longer supported**! All contributors have moved on to [Dark Place Rebirth](https://github.com/darkplace-dr/DarkPlaceRebirth-Kristal)!
+> If you wish to contribute to Dark Place, **please don't contribute to this repository**!
+> **This guide does not work with Dark Place Rebirth!**
+
 # Contributing
 
 ## Contribution Rouxls (Pronounced "Rules")
